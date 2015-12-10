@@ -13,6 +13,16 @@
 		602361471C17FEC4002C7C30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 602361451C17FEC4002C7C30 /* Main.storyboard */; };
 		602361491C17FEC4002C7C30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 602361481C17FEC4002C7C30 /* Assets.xcassets */; };
 		6023614C1C17FEC4002C7C30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6023614A1C17FEC4002C7C30 /* LaunchScreen.storyboard */; };
+		602361551C17FEE0002C7C30 /* QH3x3PhotoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 602361541C17FEE0002C7C30 /* QH3x3PhotoView.m */; };
+		602E991C1C1950BC00064126 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E99131C1950BC00064126 /* 1.jpeg */; };
+		602E991D1C1950BC00064126 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E99141C1950BC00064126 /* 2.jpeg */; };
+		602E991E1C1950BC00064126 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E99151C1950BC00064126 /* 3.jpeg */; };
+		602E991F1C1950BC00064126 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E99161C1950BC00064126 /* 4.jpeg */; };
+		602E99201C1950BC00064126 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E99171C1950BC00064126 /* 5.jpeg */; };
+		602E99211C1950BC00064126 /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E99181C1950BC00064126 /* 6.jpeg */; };
+		602E99221C1950BC00064126 /* 7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E99191C1950BC00064126 /* 7.jpeg */; };
+		602E99231C1950BC00064126 /* 8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E991A1C1950BC00064126 /* 8.jpeg */; };
+		602E99241C1950BC00064126 /* 9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602E991B1C1950BC00064126 /* 9.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +36,17 @@
 		602361481C17FEC4002C7C30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6023614B1C17FEC4002C7C30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6023614D1C17FEC4002C7C30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		602361531C17FEE0002C7C30 /* QH3x3PhotoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QH3x3PhotoView.h; sourceTree = "<group>"; };
+		602361541C17FEE0002C7C30 /* QH3x3PhotoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QH3x3PhotoView.m; sourceTree = "<group>"; };
+		602E99131C1950BC00064126 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		602E99141C1950BC00064126 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		602E99151C1950BC00064126 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		602E99161C1950BC00064126 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = "<group>"; };
+		602E99171C1950BC00064126 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = "<group>"; };
+		602E99181C1950BC00064126 /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpeg; sourceTree = "<group>"; };
+		602E99191C1950BC00064126 /* 7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpeg; sourceTree = "<group>"; };
+		602E991A1C1950BC00064126 /* 8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpeg; sourceTree = "<group>"; };
+		602E991B1C1950BC00064126 /* 9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +83,17 @@
 				602361401C17FEC4002C7C30 /* AppDelegate.m */,
 				602361421C17FEC4002C7C30 /* ViewController.h */,
 				602361431C17FEC4002C7C30 /* ViewController.m */,
+				602361531C17FEE0002C7C30 /* QH3x3PhotoView.h */,
+				602361541C17FEE0002C7C30 /* QH3x3PhotoView.m */,
+				602E99131C1950BC00064126 /* 1.jpeg */,
+				602E99141C1950BC00064126 /* 2.jpeg */,
+				602E99151C1950BC00064126 /* 3.jpeg */,
+				602E99161C1950BC00064126 /* 4.jpeg */,
+				602E99171C1950BC00064126 /* 5.jpeg */,
+				602E99181C1950BC00064126 /* 6.jpeg */,
+				602E99191C1950BC00064126 /* 7.jpeg */,
+				602E991A1C1950BC00064126 /* 8.jpeg */,
+				602E991B1C1950BC00064126 /* 9.jpeg */,
 				602361451C17FEC4002C7C30 /* Main.storyboard */,
 				602361481C17FEC4002C7C30 /* Assets.xcassets */,
 				6023614A1C17FEC4002C7C30 /* LaunchScreen.storyboard */,
@@ -136,9 +168,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				602E991D1C1950BC00064126 /* 2.jpeg in Resources */,
 				6023614C1C17FEC4002C7C30 /* LaunchScreen.storyboard in Resources */,
 				602361491C17FEC4002C7C30 /* Assets.xcassets in Resources */,
+				602E99241C1950BC00064126 /* 9.jpeg in Resources */,
+				602E991E1C1950BC00064126 /* 3.jpeg in Resources */,
+				602E99231C1950BC00064126 /* 8.jpeg in Resources */,
+				602E991F1C1950BC00064126 /* 4.jpeg in Resources */,
+				602E99221C1950BC00064126 /* 7.jpeg in Resources */,
 				602361471C17FEC4002C7C30 /* Main.storyboard in Resources */,
+				602E99211C1950BC00064126 /* 6.jpeg in Resources */,
+				602E991C1C1950BC00064126 /* 1.jpeg in Resources */,
+				602E99201C1950BC00064126 /* 5.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,6 +193,7 @@
 				602361441C17FEC4002C7C30 /* ViewController.m in Sources */,
 				602361411C17FEC4002C7C30 /* AppDelegate.m in Sources */,
 				6023613E1C17FEC4002C7C30 /* main.m in Sources */,
+				602361551C17FEE0002C7C30 /* QH3x3PhotoView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +342,7 @@
 				602361521C17FEC4002C7C30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
